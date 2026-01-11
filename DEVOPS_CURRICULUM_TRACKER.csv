@@ -1,0 +1,94 @@
+Week,Day,Date,Track,Topic,Problems/Sub-Topics,Duration,Priority,Status,SRE Mindset
+Week 1,Wed,Jan 7,DSA,Big-O Basics + SRE Problems,"Big-O analysis, Arrays (3 problems), Log Analyzer, Health Check Monitor",90 min,High,[x],✅ Solved 5 problems! Used Counter, defaultdict, datetime, json!
+Week 1,Wed,Jan 7,DevOps,Linux + Python Modules,"File structure, grep, find, permissions, log analysis, Python modules (os/sys/subprocess/collections)",120 min,High,[x],✅ EC2 practice! Linux quiz 7+/10. Python modules guide complete!
+Week 1,Thu,Jan 8,DSA,HashMap + Reinforcement,"Two Sum (HashMap), Top K Frequent (Counter), enumerate, list comprehension",60 min,High,[x],✅ Solved 4 problems! HashMap pattern mastered!
+Week 1,Thu,Jan 8,DevOps,Shell + Nginx,"Variables, conditionals, loops, functions (10 exercises), Nginx reverse proxy, load balancer",120 min,High,[x],✅ Shell exercises complete! Nginx hands-on on Killercoda!
+Week 1,Fri,Jan 9,DSA,Binary Search Basics,"Basic search, First/Last occurrence, Search insert",60 min,High,[x],✅ O(log n) master! Solved 4 key patterns.
+Week 1,Fri,Jan 9,DevOps,Git Advanced,"Branching, Merge Conflicts, Stashing",60 min,High,[x],✅ Hands-on conflict resolution and stashing mastered!
+Week 1,Sat,Jan 10,DSA,Sliding Window,"Max Sum Subarray (Fixed), Longest Substring K Distinct (Variable), Smallest Subarray Sum (Variable)",90 min,High,[x],✅ Mastered O(n) patterns! Fixed & Variable windows conquered!
+Week 1,Sat,Jan 10,DevOps,Maven Quick Reference,"pom.xml, Lifecycles, Dependencies (interview prep only)",30 min,Medium,[x],✅ Quick reference created
+Week 1,Sun,Jan 11,DSA,Two Pointers,"Reverse Array, Remove Duplicates, Container With Most Water",60 min,High,[ ],Like network traffic analysis!
+Week 1,Sun,Jan 11,AWS,EC2 Deep Dive,"Instance types, AMIs, User Data, Security Groups, Key Pairs | Interview Qs",60 min,High,[ ],Core compute service
+Week 1,Sun,Jan 11,DevOps,Docker Basics,"Dockerfile, Images, Containers, docker run/build/exec",60 min,High,[ ],Container fundamentals
+Week 1,Mon,Jan 12,DSA,Frequency Counting,"Count Frequencies, Anagram Check, Top-K Frequent",60 min,High,[ ],Like log analysis!
+Week 1,Mon,Jan 12,AWS,VPC Fundamentals,"Subnets, Route Tables, Internet Gateway, NAT Gateway, NACLs vs SGs | Interview Qs",60 min,High,[ ],Network foundation
+Week 1,Mon,Jan 12,DevOps,Docker Advanced,"Networks, Volumes, Docker Compose, Multi-stage builds",60 min,High,[ ],Production Docker
+Week 2,Tue,Jan 13,DSA,String Manipulation,"Reverse String, Palindrome Check, Valid Anagram",60 min,High,[ ],Log parsing prep
+Week 2,Tue,Jan 13,AWS,IAM Deep Dive,"Users, Groups, Roles, Policies, STS, Cross-account access | Interview Qs",60 min,High,[ ],Security foundation
+Week 2,Tue,Jan 13,DevOps,GitHub Actions Basics,"Workflows, Jobs, Steps, Triggers, Secrets",60 min,High,[ ],CI/CD modern way
+Week 2,Wed,Jan 14,DSA,Mixed Array Practice,"Move Zeros, Product Except Self, Merge Sorted Arrays",60 min,High,[ ],Pattern reinforcement
+Week 2,Wed,Jan 14,AWS,S3 Complete,"Buckets, Policies, Versioning, Lifecycle, Encryption, Cross-region replication | Interview Qs",60 min,High,[ ],Storage king
+Week 2,Wed,Jan 14,DevOps,GitHub Actions Advanced,"Matrix builds, Reusable workflows, Caching, Artifacts",60 min,High,[ ],CI/CD mastery
+Week 2,Thu,Jan 15,DSA,Stack Problems,"Valid Parentheses, Min Stack, Daily Temperatures",60 min,High,[ ],LIFO pattern
+Week 2,Thu,Jan 15,AWS,ELB & Auto Scaling,"ALB, NLB, Target Groups, Health Checks, ASG, Launch Templates | Interview Qs",60 min,High,[ ],High availability
+Week 2,Thu,Jan 15,DevOps,Terraform Basics,"Providers, Resources, Variables, Outputs, terraform init/plan/apply",60 min,High,[ ],IaC foundation
+Week 2,Fri,Jan 16,DSA,Queue & Deque,"Sliding Window Maximum, Implement Queue using Stack",60 min,High,[ ],Request queues!
+Week 2,Fri,Jan 16,AWS,Route53,"Hosted Zones, Record Types, Routing Policies, Health Checks | Interview Qs",60 min,High,[ ],DNS mastery
+Week 2,Fri,Jan 16,DevOps,Terraform Modules,"Module structure, Input/Output, Registry, Best practices",60 min,High,[ ],Reusable IaC
+Week 2,Sat,Jan 17,DSA,Binary Search Variations,"Search Rotated Array, Peak Element, First Bad Version",60 min,High,[ ],O(log n) variations
+Week 2,Sat,Jan 17,AWS,CloudWatch,"Metrics, Alarms, Logs, Log Insights, Dashboards | Interview Qs",60 min,High,[ ],Monitoring core
+Week 2,Sat,Jan 17,DevOps,Terraform State,"Remote state (S3+DynamoDB), State locking, Import, Workspaces",60 min,High,[ ],State management
+Week 2,Sun,Jan 18,Review,Week 1-2 Review,"Re-solve 3 DSA problems + AWS quiz + Docker/Terraform hands-on",180 min,High,[ ],Weekly consolidation
+Week 3,Mon,Jan 19,DSA,Linked List Basics,"Reverse Linked List, Detect Cycle, Merge Two Lists",60 min,High,[ ],Pointer manipulation
+Week 3,Mon,Jan 19,AWS,Lambda,"Function creation, Triggers, Layers, Environment variables, Cold starts | Interview Qs",60 min,High,[ ],Serverless compute
+Week 3,Mon,Jan 19,DevOps,Kubernetes Pods,"kubectl basics, Pod YAML, Labels, Selectors, Namespaces",60 min,High,[ ],K8s foundation
+Week 3,Tue,Jan 20,DSA,Fast-Slow Pointer,"Find Middle, Linked List Cycle II, Happy Number",60 min,High,[ ],Two pointer on LL
+Week 3,Tue,Jan 20,AWS,API Gateway,"REST APIs, HTTP APIs, Stages, Authorizers, Throttling | Interview Qs",60 min,High,[ ],API management
+Week 3,Tue,Jan 20,DevOps,K8s Deployments,"Deployments, ReplicaSets, Rolling updates, Rollbacks",60 min,High,[ ],Workload management
+Week 3,Wed,Jan 21,DSA,Heap Basics,"Kth Largest Element, Top K Frequent, Merge K Sorted",60 min,High,[ ],Priority queues!
+Week 3,Wed,Jan 21,AWS,SNS & SQS,"Topics, Subscriptions, Queues, Dead-letter queues, Fan-out pattern | Interview Qs",60 min,High,[ ],Messaging services
+Week 3,Wed,Jan 21,DevOps,K8s Services,"ClusterIP, NodePort, LoadBalancer, Ingress controllers",60 min,High,[ ],Service discovery
+Week 3,Thu,Jan 22,DSA,Tree Traversals,"Inorder, Preorder, Postorder, Level Order",60 min,High,[ ],Recursive thinking
+Week 3,Thu,Jan 22,AWS,EKS,"Cluster creation, Node groups, Add-ons, IAM integration | Interview Qs",60 min,High,[ ],Managed K8s
+Week 3,Thu,Jan 22,DevOps,K8s ConfigMaps & Secrets,"Environment configuration, Secret management, Volume mounts",60 min,High,[ ],Config management
+Week 3,Fri,Jan 23,DSA,Tree Depth Problems,"Max Depth, Validate BST, Same Tree",60 min,High,[ ],Tree recursion
+Week 3,Fri,Jan 23,AWS,ECR & ECS,"Container registry, Task definitions, Services, Fargate | Interview Qs",60 min,High,[ ],Container services
+Week 3,Fri,Jan 23,DevOps,K8s Storage,"PV, PVC, StorageClasses, StatefulSets",60 min,High,[ ],Persistent storage
+Week 3,Sat,Jan 24,DSA,BST Operations,"Search, Insert, Delete in BST",60 min,High,[ ],BST operations
+Week 3,Sat,Jan 24,AWS,RDS,"MySQL, PostgreSQL, Multi-AZ, Read Replicas, Backups | Interview Qs",60 min,High,[ ],Managed databases
+Week 3,Sat,Jan 24,DevOps,K8s HPA & Probes,"Horizontal Pod Autoscaler, Liveness, Readiness, Startup probes",60 min,High,[ ],Auto-scaling & health
+Week 3,Sun,Jan 25,Review,Week 3 Review + Mock,"3 DSA problems timed + AWS scenario questions + K8s troubleshooting",180 min,High,[ ],Weekly consolidation
+Week 4,Mon,Jan 26,DSA,Graph Basics,"BFS, DFS, Number of Islands",60 min,High,[ ],Graph traversal
+Week 4,Mon,Jan 26,AWS,DynamoDB,"Tables, Keys, Indexes, Capacity modes, Streams | Interview Qs",60 min,High,[ ],NoSQL database
+Week 4,Mon,Jan 26,DevOps,Helm Basics,"Charts, Values, Templates, Releases, Repositories",60 min,High,[ ],K8s package manager
+Week 4,Tue,Jan 27,DSA,Graph Applications,"Clone Graph, Course Schedule, Connected Components",60 min,High,[ ],Graph problems
+Week 4,Tue,Jan 27,AWS,CloudTrail & Config,"Audit logging, Compliance, Configuration tracking | Interview Qs",60 min,High,[ ],Governance & audit
+Week 4,Tue,Jan 27,DevOps,Helm Advanced,"Hooks, Dependencies, Subcharts, Best practices",60 min,High,[ ],Helm mastery
+Week 4,Wed,Jan 28,DSA,Backtracking Intro,"Subsets, Permutations, Combination Sum",60 min,Medium,[ ],Recursive exploration
+Week 4,Wed,Jan 28,AWS,ACM & Secrets Manager,"Certificate management, Secret rotation, Integration | Interview Qs",60 min,High,[ ],Security essentials
+Week 4,Wed,Jan 28,DevOps,ArgoCD Basics,"GitOps, Applications, Sync, Health status",60 min,High,[ ],GitOps CD
+Week 4,Thu,Jan 29,DSA,DP Introduction,"Fibonacci, Climbing Stairs, House Robber",60 min,Medium,[ ],Optimization patterns
+Week 4,Thu,Jan 29,AWS,KMS & WAF,"Encryption keys, CMKs, Web application firewall rules | Interview Qs",60 min,High,[ ],Security advanced
+Week 4,Thu,Jan 29,DevOps,ArgoCD Advanced,"Rollbacks, Diff, Sync waves, App of Apps",60 min,High,[ ],GitOps mastery
+Week 4,Fri,Jan 30,DSA,DP Practice,"Unique Paths, Coin Change, Longest Common Subsequence",60 min,Medium,[ ],DP patterns
+Week 4,Fri,Jan 30,AWS,CloudFront,"CDN, Origins, Behaviors, Cache policies, Lambda@Edge | Interview Qs",60 min,High,[ ],Content delivery
+Week 4,Fri,Jan 30,DevOps,Prometheus Basics,"Installation, Metrics, Scraping, PromQL basics",60 min,High,[ ],Monitoring core
+Week 4,Sat,Jan 31,DSA,Mixed Medium Practice,"Random 3 LeetCode medium problems",60 min,High,[ ],Interview simulation
+Week 4,Sat,Jan 31,AWS,Cost Optimization,"Cost Explorer, Budgets, Reserved Instances, Savings Plans | Interview Qs",60 min,High,[ ],Cost management
+Week 4,Sat,Jan 31,DevOps,Prometheus Advanced,"Alertmanager, Recording rules, Grafana integration",60 min,High,[ ],Alerting setup
+Week 4,Sun,Feb 1,Review,Week 4 Review + Full Mock,"Full mock interview: 2 DSA + 1 System Design + AWS scenario",180 min,High,[ ],Weekly consolidation
+Week 5,Mon,Feb 2,DSA,Pattern Review Day,"Re-solve weak patterns from Week 1-4",60 min,High,[ ],Consolidation
+Week 5,Mon,Feb 2,AWS,Step Functions,"State machines, Workflows, Error handling | Interview Qs",60 min,Medium,[ ],Serverless orchestration
+Week 5,Mon,Feb 2,DevOps,Grafana Dashboards,"Panels, Variables, Alerts, Dashboard best practices",60 min,High,[ ],Visualization
+Week 5,Tue,Feb 3,DSA,System Design Basics,"Scaling, Load balancing, Caching, Database sharding",60 min,High,[ ],Architecture thinking
+Week 5,Tue,Feb 3,AWS,EventBridge,"Rules, Targets, Event patterns, Scheduling | Interview Qs",60 min,Medium,[ ],Event-driven
+Week 5,Tue,Feb 3,DevOps,Trivy & Security,"Container scanning, CVE detection, CI integration",60 min,High,[ ],Security scanning
+Week 5,Wed,Feb 4,DSA,System Design Practice,"Design URL Shortener, Design Rate Limiter",60 min,High,[ ],Practice designs
+Week 5,Wed,Feb 4,AWS,Systems Manager,"Parameter Store, Session Manager, Run Command | Interview Qs",60 min,High,[ ],Operations tool
+Week 5,Wed,Feb 4,DevOps,SRE Concepts,"SLI, SLO, SLA, Error budgets, Toil reduction",60 min,High,[ ],SRE core theory
+Week 5,Thu,Feb 5,DSA,Mock Interview 1,"2 problems in 45 min + verbal explanation",60 min,High,[ ],Timed practice
+Week 5,Thu,Feb 5,AWS,Service Integration Patterns,"Lambda + API Gateway + DynamoDB, EKS + ALB + ECR",60 min,High,[ ],Architecture patterns
+Week 5,Thu,Feb 5,DevOps,Incident Management,"On-call, RCA, Runbooks, Post-mortems",60 min,High,[ ],SRE practice
+Week 5,Fri,Feb 6,DSA,Mock Interview 2,"2 problems + system design question",60 min,High,[ ],Full simulation
+Week 5,Fri,Feb 6,AWS,Well-Architected Framework,"5 pillars, Best practices, Review process | Interview Qs",60 min,High,[ ],Architecture excellence
+Week 5,Fri,Feb 6,DevOps,End-to-End Pipeline,"Complete CI/CD: GitHub Actions → Docker → ECR → EKS",60 min,High,[ ],Full pipeline
+Week 5,Sat,Feb 7,Project,Infra Project Day 1,"Build 3-tier VPC with Terraform + Deploy app with EKS",180 min,High,[ ],Hands-on project
+Week 5,Sun,Feb 8,Project,Infra Project Day 2,"Add monitoring (Prometheus/Grafana) + CI/CD pipeline",180 min,High,[ ],Complete project
+Week 6,Mon,Feb 9,Review,Full Review: DSA,"All patterns summary + weak spot practice",90 min,High,[ ],Final prep
+Week 6,Mon,Feb 9,Review,Full Review: AWS,"All 20+ services summary + scenario questions",90 min,High,[ ],Final prep
+Week 6,Tue,Feb 10,Review,Full Review: DevOps,"Docker/K8s/Terraform/GitHub Actions summary",90 min,High,[ ],Final prep
+Week 6,Tue,Feb 10,Mock,Behavioral Prep,"Tell me about yourself, Why SRE, Project walkthroughs",90 min,High,[ ],Soft skills
+Week 6,Wed,Feb 11,Mock,Full Technical Mock,"DSA (2) + System Design (1) + AWS Scenario (1)",180 min,High,[ ],Full simulation
+Week 6,Thu,Feb 12,Mock,DevOps Hands-on Mock,"Live troubleshooting: K8s + Docker + AWS scenario",180 min,High,[ ],Practical test
+Week 6,Fri,Feb 13,Review,Gap Analysis,"Identify weak areas + targeted practice",180 min,High,[ ],Final polish
+Week 6,Sat,Feb 14,READY,Interview Ready!,"You can: Solve medium DSA, Explain AWS services, Debug K8s, Write Terraform, Build CI/CD",0 min,High,[ ],🎯 GO GET THAT JOB!
