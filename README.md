@@ -56,4 +56,40 @@ Learning-Path/
 
 ---
 
-*Last Updated: Jan 10, 2026*
+*Last Updated: Jan 11, 2026*
+
+---
+
+## 🏆 EC2 Project Ideas
+
+### 1. **3-Tier Web Application** (⭐ Recommended)
+```
+Route53 → ALB → EC2 (Web) → EC2 (App) → RDS
+           ↓
+    Auto Scaling Group
+```
+**Learn:** VPC, Subnets, ALB, Auto Scaling, RDS
+
+### 2. **EC2 Auto Start/Stop Scheduler**
+```
+CloudWatch Events → Lambda → Start/Stop EC2
+```
+**Learn:** Lambda, CloudWatch Events, Boto3, Cost saving
+
+### 3. **CI/CD to EC2**
+```
+GitHub → GitHub Actions → Build → Deploy to EC2
+```
+**Learn:** CI/CD, SSH deploy, CodeDeploy
+
+### 4. **EC2 Monitoring Dashboard**
+```
+EC2 → CloudWatch Agent → Custom Metrics → Grafana
+```
+**Learn:** CloudWatch, Custom metrics, Dashboards
+
+### 5. **Bastion Host Setup**
+```
+Public EC2 (Bastion) → SSH → Private EC2
+```
+**Learn:** Security, VPC, SSH tunneling
